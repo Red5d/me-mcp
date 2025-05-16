@@ -1,0 +1,17 @@
+{
+    "webhook_url": "https://example.com/webhook",
+    "personal_info": {
+        "name": "Me",
+        "handle": "me",
+        "contact_methods": {
+            "github": "https://github.com/me",
+            "matrix": "https://matrix.to/#/@me:example.com",
+            "X": "https://x.com/me",
+            "email": "me@example.com"
+        },
+        "occupation": "Job",
+        "skills": ["Python", "AI", "Web Development", "System Administration"],
+        "interests": ["Technology", "Artificial Intelligence", "Programming", "Networking"],
+        "bio": "Experienced developer/sysadmin with a passion for automation and AI."
+    }
+}
